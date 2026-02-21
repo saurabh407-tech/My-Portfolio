@@ -30,13 +30,13 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center text-center px-6 -mt-6"
+      className="min-h-screen flex flex-col items-center justify-center text-center px-6 -mt-16"
     >
      
       <img
         src={profileImg}
         alt="Saurabh Shukla"
-        className="w-40 h-40 rounded-full border-2 border-blue-400 shadow-lg mb-4"
+        className="w-52 h-52 rounded-full border-2 border-blue-400 shadow-lg mb-4"
       />
 
      
@@ -59,13 +59,13 @@ const Hero = () => {
       </div>
 
      
-      <p className="max-w-2xl mt-4 text-gray-400 leading-relaxed px-4 text-lg">
+      <p className="max-w-2xl mt-6 text-gray-400 leading-relaxed px-4 text-lg">
         I am a BTech Computer Science student with a strong interest in software development and technology.
         I have learned programming languages including C, Java, and Python, and have hands-on experience with 
         HTML, CSS, JavaScript, and React. 
         I am passionate about becoming a full-stack developer.
       </p>
-      <div className="flex gap-4 mt-4">
+      <div className="flex gap-4 mt-8">
       <a
     href={resume}
     download
