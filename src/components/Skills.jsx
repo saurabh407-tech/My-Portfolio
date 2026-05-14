@@ -51,9 +51,9 @@ I have knowledge of programming languages like C, Java, and Python, and I am esp
 
 
 <div className="bg-gray-800 p-6 rounded-lg">
-<h4 className="text-lg font-semibold">Spring Boot</h4>
+<h4 className="text-lg font-semibold">Nodejs</h4>
 <p className="text-gray-400 text-sm mt-2">
-Knowledge of developing RESTful APIs, handling backend logic, and integrating databases using Spring Boot.
+Knowledge of developing RESTful APIs, handling backend logic, and integrating databases using Node.js, Express.js, and MongoDB.
 </p>
 </div>
 </div>
