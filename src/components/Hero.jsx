@@ -30,7 +30,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col items-center justify-center text-center px-6 -mt-16"
+      className="min-h-screen bg-gradient-to-b from-[#1A3F5F] via-[#0A1628] to-[#17142C] flex flex-col items-center justify-center text-center px-6 -mt-16"
     >
      
       <img
@@ -41,7 +41,7 @@ const Hero = () => {
 
      
 
-      <h1 className="text-4xl font-bold text-yellow-300 tracking-wide animate-pulse">
+      <h1 className="text-4xl font-bold text-yellow-400 tracking-wide animate-pulse">
         Saurabh Shukla
       </h1>
 
@@ -59,11 +59,8 @@ const Hero = () => {
       </div>
 
      
-      <p className="max-w-2xl mt-6 text-gray-400 leading-relaxed px-4 text-lg">
-        I am a BTech Computer Science student with a strong interest in software development and technology.
-        I have learned programming languages including C, Java, and Python, and have hands-on experience with 
-        HTML, CSS, JavaScript, and React. 
-        I am passionate about becoming a full-stack developer.
+      <p className="max-w-2xl mt-6 text-gray-300 leading-relaxed px-4 text-lg">
+        I am a MERN Stack Developer with a strong foundation in Java programming and a passion for building scalable web applications. I enjoy solving problems, learning new technologies, and am seeking opportunities to contribute and grow as a Software Developer.
       </p>
       <div className="flex gap-4 mt-8">
       <a
